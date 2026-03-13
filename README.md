@@ -21,4 +21,3 @@ AI Model: Google Generative AI (Gemini 2.5 Flash)
 Frontend: HTML5, CSS3, JavaScript (Fetch API)
 
 ""AI Application""
-####################
