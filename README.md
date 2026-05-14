@@ -1,3 +1,4 @@
+-----------------------------------------------------------------------------------------------
 🤖 Flask Chatbot with Google Gemini API
 A lightweight, interactive web-based chatbot application built with Python (Flask) and Google's Gemini 2.5 Flash model.
 It features a responsive Single Page Application (SPA) interface using vanilla JavaScript, HTML, and CSS.
@@ -21,3 +22,4 @@ AI Model: Google Generative AI (Gemini 2.5 Flash)
 Frontend: HTML5, CSS3, JavaScript (Fetch API)
 
 ""AI Application""
+-----------------------------------------------------------------------------------------------
